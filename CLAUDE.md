@@ -47,8 +47,13 @@ scripts/
 
 ## Current State
 
-Phase A scaffold complete. Phase B (data pipeline) in progress.
+MVP complete. All 4 tabs (Activity, Projects, Backlogs, Usage) implemented and deployed.
+- 159 sessions, 18 projects, 33-day data span, 90.6% history match rate
+- Data pipeline: 2.2s for 209 MB of JSONL files, ~106 KB output
+- Build: 104 KB gzipped
 
 ## Deploy
 
-Vercel auto-deploys on push to `main`. Production URL: TBD (not yet deployed).
+Vercel auto-deploys on push to `main`.
+**Production:** https://claude-code-dashboard-dnorth123-projects.vercel.app
+**GitHub:** https://github.com/dnorth123/claude-code-dashboard
