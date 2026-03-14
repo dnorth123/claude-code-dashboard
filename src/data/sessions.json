@@ -1,0 +1,2864 @@
+[
+  {
+    "sessionId": "03af3c19-ac07-4c55-b6a7-8f1818fc3489",
+    "projectId": "dnorthington",
+    "startTime": "2026-03-05T00:32:16.992Z",
+    "endTime": "2026-03-05T00:32:27.797Z",
+    "durationMinutes": 0,
+    "messageCount": 6,
+    "model": "unknown",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "/save-state "
+  },
+  {
+    "sessionId": "04572898-6b4c-48e0-a0ff-71dd10d94398",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-14T04:40:38.925Z",
+    "endTime": "2026-02-14T04:43:01.285Z",
+    "durationMinutes": 2,
+    "messageCount": 6,
+    "model": "unknown",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "see attached. I still see all these vercel skills"
+  },
+  {
+    "sessionId": "05f0ec0a-9236-4a70-a342-6c7501f84f3f",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-25T06:43:15.976Z",
+    "endTime": "2026-02-25T06:52:28.538Z",
+    "durationMinutes": 9,
+    "messageCount": 12,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 33,
+      "output": 4132,
+      "cacheCreation": 38838,
+      "cacheRead": 560080
+    },
+    "estimatedCostCents": 209,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "26439387-f5ef-4b82-b809-04ecb9bf12f6",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-14T04:34:01.139Z",
+    "endTime": "2026-02-14T04:34:04.053Z",
+    "durationMinutes": 0,
+    "messageCount": 6,
+    "model": "unknown",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "i feel like I still see a lot when I invoke /"
+  },
+  {
+    "sessionId": "2a0b9685-68ee-4440-9c6d-e9d51fdc95df",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-25T06:45:15.129Z",
+    "endTime": "2026-02-25T06:55:55.489Z",
+    "durationMinutes": 11,
+    "messageCount": 43,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 87,
+      "output": 8894,
+      "cacheCreation": 210781,
+      "cacheRead": 3131645
+    },
+    "estimatedCostCents": 1049,
+    "firstPrompt": "hi"
+  },
+  {
+    "sessionId": "3bfaf963-229b-4a72-a354-2c093ac56018",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-14T04:16:35.846Z",
+    "endTime": "2026-02-14T04:41:17.113Z",
+    "durationMinutes": 25,
+    "messageCount": 49,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 34892,
+      "output": 12332,
+      "cacheCreation": 195954,
+      "cacheRead": 4228476
+    },
+    "estimatedCostCents": 1305,
+    "firstPrompt": "[Pasted text #1 +228 lines]"
+  },
+  {
+    "sessionId": "4de2be34-6b6c-47d7-9d0f-eb0c12c8c33b",
+    "projectId": "dnorthington",
+    "startTime": "2026-03-11T20:45:16.158Z",
+    "endTime": "2026-03-11T21:34:10.626Z",
+    "durationMinutes": 49,
+    "messageCount": 76,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 5847,
+      "output": 24332,
+      "cacheCreation": 246072,
+      "cacheRead": 7038184
+    },
+    "estimatedCostCents": 1972,
+    "firstPrompt": "commit this and push to main"
+  },
+  {
+    "sessionId": "4eac7f6d-1821-4246-9aa0-ffae3da1524b",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-25T07:00:51.816Z",
+    "endTime": "2026-03-11T20:45:16.218Z",
+    "durationMinutes": 20984,
+    "messageCount": 121,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 504,
+      "output": 52249,
+      "cacheCreation": 1673091,
+      "cacheRead": 10721705
+    },
+    "estimatedCostCents": 5540,
+    "firstPrompt": "let's revisit the content meter for my claude code setup. Can we use a varation of the animations the the claude code \"thinking\" words use (both to the asterisk and the that moves across the test)?"
+  },
+  {
+    "sessionId": "532685c1-153a-463d-ace9-cb2885a3cbba",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-25T06:55:55.487Z",
+    "endTime": "2026-03-05T00:31:48.752Z",
+    "durationMinutes": 11136,
+    "messageCount": 50,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 96,
+      "output": 19409,
+      "cacheCreation": 968926,
+      "cacheRead": 4515928
+    },
+    "estimatedCostCents": 2809,
+    "firstPrompt": "/save-state "
+  },
+  {
+    "sessionId": "5a64e92d-785a-46b0-b201-0ecdf664559f",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-25T04:29:15.636Z",
+    "endTime": "2026-02-25T06:32:03.845Z",
+    "durationMinutes": 123,
+    "messageCount": 117,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 248,
+      "output": 35565,
+      "cacheCreation": 900988,
+      "cacheRead": 16163044
+    },
+    "estimatedCostCents": 4987,
+    "firstPrompt": "/phase-checkpoint I want to continue the review and revisions for these docs. save-state and give me a restart prompt."
+  },
+  {
+    "sessionId": "64f62538-4d07-4a29-9f79-57a1ee082c04",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-14T04:28:10.267Z",
+    "endTime": "2026-02-14T04:33:09.265Z",
+    "durationMinutes": 5,
+    "messageCount": 18,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 70,
+      "output": 1115,
+      "cacheCreation": 125063,
+      "cacheRead": 1470469
+    },
+    "estimatedCostCents": 519,
+    "firstPrompt": "/context "
+  },
+  {
+    "sessionId": "724f1b30-2b99-41e9-adb3-385706e95cd6",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-14T04:34:56.313Z",
+    "endTime": "2026-02-14T04:40:33.457Z",
+    "durationMinutes": 6,
+    "messageCount": 30,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 81,
+      "output": 2256,
+      "cacheCreation": 93952,
+      "cacheRead": 2277241
+    },
+    "estimatedCostCents": 620,
+    "firstPrompt": "we just went over this. Look at the logs from the past few sessions"
+  },
+  {
+    "sessionId": "7491a066-3150-4f8a-818f-4880e16fdbc8",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-14T04:55:20.218Z",
+    "endTime": "2026-02-14T04:55:49.675Z",
+    "durationMinutes": 0,
+    "messageCount": 8,
+    "model": "unknown",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "what were the unstaged changes? "
+  },
+  {
+    "sessionId": "74e47bcc-4dfc-4ab2-821e-4ee881c3f618",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-25T06:22:51.292Z",
+    "endTime": "2026-02-25T06:43:16.004Z",
+    "durationMinutes": 20,
+    "messageCount": 21,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 47,
+      "output": 4842,
+      "cacheCreation": 79281,
+      "cacheRead": 872336
+    },
+    "estimatedCostCents": 349,
+    "firstPrompt": "could we modify the latest version of the context metere so that the emoji, letters CTX and the percentage | tokens have new all show as the color (green, yellow, red) and should be fun and vibrant (allowing for claude codes display capabilities). "
+  },
+  {
+    "sessionId": "763fef8b-0c19-424e-aaf1-79679c093eb3",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-16T04:07:15.885Z",
+    "endTime": "2026-02-16T04:07:15.886Z",
+    "durationMinutes": 0,
+    "messageCount": 3,
+    "model": "unknown",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "/exit "
+  },
+  {
+    "sessionId": "aea7cf1d-f5e0-48b8-94d0-f4fe7849efa1",
+    "projectId": "dnorthington",
+    "startTime": "2026-03-05T00:33:25.259Z",
+    "endTime": "2026-03-05T00:33:25.264Z",
+    "durationMinutes": 0,
+    "messageCount": 3,
+    "model": "unknown",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "fix those 3 items"
+  },
+  {
+    "sessionId": "b5b57b15-4811-4cb2-bbd7-ebd3c54aca45",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-25T06:32:03.788Z",
+    "endTime": "2026-02-25T06:44:05.343Z",
+    "durationMinutes": 12,
+    "messageCount": 55,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 101,
+      "output": 18872,
+      "cacheCreation": 477898,
+      "cacheRead": 5279564
+    },
+    "estimatedCostCents": 2028,
+    "firstPrompt": "/save-state so I can resume with phase B and not lose any context. "
+  },
+  {
+    "sessionId": "c6a67b2e-1b0e-4dfe-ad26-9db77fec695f",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-25T05:26:26.974Z",
+    "endTime": "2026-02-25T06:22:51.355Z",
+    "durationMinutes": 56,
+    "messageCount": 18,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 36,
+      "output": 2490,
+      "cacheCreation": 163930,
+      "cacheRead": 649846
+    },
+    "estimatedCostCents": 448,
+    "firstPrompt": "locate my user ~.claude folder and help me identify an dmodify the code for the custom context meter I created in my claude code setup. Here is part of the view. I want to remove this graph [████████████░░░░░░░░] and the \"checkpoint soon\" text from the context meter display and replace it with a running count of the total number of tokens used. Ask clarifying questions as needed."
+  },
+  {
+    "sessionId": "3bfaf963-229b-4a72-a354-2c093ac56018",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-14T04:41:17.114Z",
+    "endTime": "2026-02-14T04:41:17.114Z",
+    "durationMinutes": 0,
+    "messageCount": 1,
+    "model": "unknown",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": null
+  },
+  {
+    "sessionId": "c85b9f45-2380-4d6f-801b-e1d800ab4645",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-14T04:41:17.112Z",
+    "endTime": "2026-02-14T04:55:14.709Z",
+    "durationMinutes": 14,
+    "messageCount": 46,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 134,
+      "output": 6666,
+      "cacheCreation": 171339,
+      "cacheRead": 2842251
+    },
+    "estimatedCostCents": 904,
+    "firstPrompt": "ok 1"
+  },
+  {
+    "sessionId": "c8fcd206-eeaa-48a6-9a1a-54d478621f86",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-25T06:54:43.196Z",
+    "endTime": "2026-02-25T06:55:13.864Z",
+    "durationMinutes": 1,
+    "messageCount": 6,
+    "model": "unknown",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "can you make the vibrant bold color appear with a glowing animation that is valid/optimal for use in claude code?"
+  },
+  {
+    "sessionId": "d08b3e4c-0cea-4fb6-bdc4-5f3f968f3625",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-24T02:57:05.919Z",
+    "endTime": "2026-02-25T04:28:53.706Z",
+    "durationMinutes": 1532,
+    "messageCount": 52,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 417,
+      "output": 11772,
+      "cacheCreation": 357513,
+      "cacheRead": 4407190
+    },
+    "estimatedCostCents": 1586,
+    "firstPrompt": "Review and analyze the attached medical report for my son. Read the report thoroughly and provide expert guidance based on psychology, psychiatry, etc. Based on his current state, we are working to get him into a residential treatment program. They're looking at putting him into their DBT track. Also, provide more information on Borderline Personality Disorder and how it applies to my son, Carter, based on the findings of the report. 'Documents/com~apple~CloudDocs/Downloads/Letter Northington Carter MCMI-IV-Interpretive-Report.pdf' "
+  },
+  {
+    "sessionId": "d8536283-c940-4fab-a11d-b4e16ef5f730",
+    "projectId": "dnorthington",
+    "startTime": "2026-02-14T04:56:08.493Z",
+    "endTime": "2026-02-14T05:17:58.729Z",
+    "durationMinutes": 22,
+    "messageCount": 23,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 38,
+      "output": 4291,
+      "cacheCreation": 204848,
+      "cacheRead": 838172
+    },
+    "estimatedCostCents": 573,
+    "firstPrompt": "are the old ones going to conflict with the new setup?"
+  },
+  {
+    "sessionId": "15e1aefe-5f59-40d2-a747-d0242aef137c",
+    "projectId": "-users-dnorthington-library-mobile-documents-com-apple-clouddocs-projects",
+    "startTime": "2026-03-11T22:28:16.025Z",
+    "endTime": "2026-03-11T22:36:15.143Z",
+    "durationMinutes": 8,
+    "messageCount": 49,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 8048,
+      "output": 10024,
+      "cacheCreation": 150157,
+      "cacheRead": 2705138
+    },
+    "estimatedCostCents": 876,
+    "firstPrompt": "continue"
+  },
+  {
+    "sessionId": "2db9a8a4-68bf-4381-a7fd-4dc1a97229d7",
+    "projectId": "-users-dnorthington-library-mobile-documents-com-apple-clouddocs-projects",
+    "startTime": "2026-03-14T19:23:56.653Z",
+    "endTime": "2026-03-14T19:56:05.196Z",
+    "durationMinutes": 32,
+    "messageCount": 28,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 74,
+      "output": 22920,
+      "cacheCreation": 202911,
+      "cacheRead": 2873089
+    },
+    "estimatedCostCents": 1091,
+    "firstPrompt": "/save-state"
+  },
+  {
+    "sessionId": "88cf3cc6-bb3f-4f5c-9f50-35666ddfb469",
+    "projectId": "-users-dnorthington-library-mobile-documents-com-apple-clouddocs-projects",
+    "startTime": "2026-03-14T19:58:24.629Z",
+    "endTime": "2026-03-14T20:09:47.109Z",
+    "durationMinutes": 11,
+    "messageCount": 87,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 136,
+      "output": 37417,
+      "cacheCreation": 395256,
+      "cacheRead": 8479455
+    },
+    "estimatedCostCents": 2612,
+    "firstPrompt": "/model"
+  },
+  {
+    "sessionId": "a59dea5a-e713-4383-89ea-82a3ed12d39b",
+    "projectId": "-users-dnorthington-library-mobile-documents-com-apple-clouddocs-projects",
+    "startTime": "2026-03-14T19:41:34.464Z",
+    "endTime": "2026-03-14T20:04:40.577Z",
+    "durationMinutes": 23,
+    "messageCount": 37,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 2770,
+      "output": 14652,
+      "cacheCreation": 114461,
+      "cacheRead": 2382844
+    },
+    "estimatedCostCents": 775,
+    "firstPrompt": "do I have playwright mcp or CLI installed?"
+  },
+  {
+    "sessionId": "aa10ff2b-6142-4cbf-8c44-f9ccab27305c",
+    "projectId": "-users-dnorthington-library-mobile-documents-com-apple-clouddocs-projects",
+    "startTime": "2026-03-14T20:04:48.041Z",
+    "endTime": "2026-03-14T20:09:43.672Z",
+    "durationMinutes": 5,
+    "messageCount": 39,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 154,
+      "output": 5751,
+      "cacheCreation": 138751,
+      "cacheRead": 1829877
+    },
+    "estimatedCostCents": 647,
+    "firstPrompt": "/plugin"
+  },
+  {
+    "sessionId": "ace77273-6644-49d7-b713-2842d7c36744",
+    "projectId": "-users-dnorthington-library-mobile-documents-com-apple-clouddocs-projects",
+    "startTime": "2026-03-11T22:37:50.720Z",
+    "endTime": "2026-03-11T22:37:55.115Z",
+    "durationMinutes": 0,
+    "messageCount": 5,
+    "model": "unknown",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "yes"
+  },
+  {
+    "sessionId": "bc144c1c-1ed5-4016-af99-0e080bdf50c2",
+    "projectId": "-users-dnorthington-library-mobile-documents-com-apple-clouddocs-projects",
+    "startTime": "2026-03-14T20:02:25.718Z",
+    "endTime": "2026-03-14T20:09:38.347Z",
+    "durationMinutes": 7,
+    "messageCount": 9,
+    "model": "unknown",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "/save-state"
+  },
+  {
+    "sessionId": "fbb768a0-00bd-4f07-a0d0-87eaeba2d19c",
+    "projectId": "-users-dnorthington-library-mobile-documents-com-apple-clouddocs-projects",
+    "startTime": "2026-03-11T21:31:38.148Z",
+    "endTime": "2026-03-11T22:28:18.512Z",
+    "durationMinutes": 57,
+    "messageCount": 22,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 56,
+      "output": 12155,
+      "cacheCreation": 135377,
+      "cacheRead": 1154748
+    },
+    "estimatedCostCents": 562,
+    "firstPrompt": "look at the context meter. and the animated svg that was created for the github readme file. Should I be seeing the same visual as the meter or is it exaggerated? I don't see the same level of animation in the live environment."
+  },
+  {
+    "sessionId": "ff769870-2fec-4fae-8dd8-ced6053a0668",
+    "projectId": "-users-dnorthington-library-mobile-documents-com-apple-clouddocs-projects",
+    "startTime": "2026-03-12T02:32:37.099Z",
+    "endTime": "2026-03-14T19:23:33.289Z",
+    "durationMinutes": 3891,
+    "messageCount": 55,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 209,
+      "output": 29026,
+      "cacheCreation": 302148,
+      "cacheRead": 4213543
+    },
+    "estimatedCostCents": 1575,
+    "firstPrompt": "[Pasted text #1 +19 lines]"
+  },
+  {
+    "sessionId": "9ae663b8-bc90-4a9c-aad4-afe88acf656e",
+    "projectId": "-users-dnorthington-library-mobile-documents-com-apple-clouddocs-projects-all-claude-code-projects",
+    "startTime": "2026-02-14T03:31:57.389Z",
+    "endTime": "2026-02-14T03:32:32.136Z",
+    "durationMinutes": 1,
+    "messageCount": 6,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 1847,
+      "output": 697,
+      "cacheCreation": 131470,
+      "cacheRead": 272849
+    },
+    "estimatedCostCents": 306,
+    "firstPrompt": "help me uninstall the superpowers plugin"
+  },
+  {
+    "sessionId": "b91bde14-7a1b-4325-bf49-a3eba07b8a0d",
+    "projectId": "-users-dnorthington-library-mobile-documents-com-apple-clouddocs-projects-all-claude-code-projects",
+    "startTime": "2026-02-14T03:33:00.439Z",
+    "endTime": "2026-02-14T04:15:43.247Z",
+    "durationMinutes": 43,
+    "messageCount": 19,
+    "model": "claude-opus-4-6",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 37,
+      "output": 809,
+      "cacheCreation": 133194,
+      "cacheRead": 882574
+    },
+    "estimatedCostCents": 421,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "0353724f-00c3-44f2-8fe5-8d78c91814cc",
+    "projectId": "life-os",
+    "startTime": "2026-02-19T04:47:49.288Z",
+    "endTime": "2026-02-21T20:45:15.855Z",
+    "durationMinutes": 3837,
+    "messageCount": 27,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 79,
+      "output": 21133,
+      "cacheCreation": 189902,
+      "cacheRead": 3630521
+    },
+    "estimatedCostCents": 1195,
+    "firstPrompt": "you can access prior raw session logs. Go find the lastest version of checkpoint C"
+  },
+  {
+    "sessionId": "48b9ad6d-21bb-4e42-9e89-6e8e70896ab1",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T05:51:06.312Z",
+    "endTime": "2026-02-14T05:51:06.312Z",
+    "durationMinutes": 0,
+    "messageCount": 1,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": null
+  },
+  {
+    "sessionId": "0554d2f0-a81a-412d-817e-9125fa8ecf4f",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T05:51:06.310Z",
+    "endTime": "2026-02-14T06:38:07.146Z",
+    "durationMinutes": 47,
+    "messageCount": 101,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 222,
+      "output": 18920,
+      "cacheCreation": 472627,
+      "cacheRead": 13867077
+    },
+    "estimatedCostCents": 3628,
+    "firstPrompt": "context"
+  },
+  {
+    "sessionId": "05713454-3b06-424b-9281-03fba9b97e02",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T03:41:52.000Z",
+    "endTime": "2026-02-14T04:15:33.909Z",
+    "durationMinutes": 34,
+    "messageCount": 142,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 238,
+      "output": 27489,
+      "cacheCreation": 315326,
+      "cacheRead": 19915663
+    },
+    "estimatedCostCents": 4532,
+    "firstPrompt": "/exit "
+  },
+  {
+    "sessionId": "0925e9b4-4b54-411b-941a-11961129349e",
+    "projectId": "life-os",
+    "startTime": "2026-02-19T04:32:11.390Z",
+    "endTime": "2026-02-19T04:40:26.548Z",
+    "durationMinutes": 8,
+    "messageCount": 52,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 2878,
+      "output": 8957,
+      "cacheCreation": 154938,
+      "cacheRead": 5473736
+    },
+    "estimatedCostCents": 1388,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "100d0c99-b4fc-491b-88bc-f77c8ed08a27",
+    "projectId": "life-os",
+    "startTime": "2026-02-24T02:49:08.041Z",
+    "endTime": "2026-02-24T02:49:49.178Z",
+    "durationMinutes": 1,
+    "messageCount": 7,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 9,
+      "output": 197,
+      "cacheCreation": 87648,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 166,
+    "firstPrompt": "conduct a thorough review and analysis of the attached medical report for my son. Based on his current state, we are working to get him into a residential treatment program. They're looking at putting him into their DBT track. Also, provide more information on Borderline Personality Disorder and how it applies to my son, Carter, based on the findings of the report. '/Users/dnorthington/Library/Mobile Documents/com~apple~CloudDocs/Downloads/Letter Northington Carter MCMI-IV-Interpretive-Report.pdf'"
+  },
+  {
+    "sessionId": "11e37765-321e-4b5c-bc7e-747deb1ea5ee",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T03:51:24.253Z",
+    "endTime": "2026-02-16T04:06:08.940Z",
+    "durationMinutes": 15,
+    "messageCount": 8,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 8,
+      "output": 97,
+      "cacheCreation": 2094,
+      "cacheRead": 207036
+    },
+    "estimatedCostCents": 43,
+    "firstPrompt": "yes, commit and push"
+  },
+  {
+    "sessionId": "14b9c560-68b6-4701-b3a1-64ef25d2415a",
+    "projectId": "life-os",
+    "startTime": "2026-03-11T19:18:25.234Z",
+    "endTime": "2026-03-11T21:24:03.920Z",
+    "durationMinutes": 126,
+    "messageCount": 5,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "/clear"
+  },
+  {
+    "sessionId": "16768c8f-2c66-4b39-ae14-b830c0d22999",
+    "projectId": "life-os",
+    "startTime": "2026-02-15T18:27:36.593Z",
+    "endTime": "2026-02-16T00:29:17.735Z",
+    "durationMinutes": 362,
+    "messageCount": 27,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 82,
+      "output": 16183,
+      "cacheCreation": 657837,
+      "cacheRead": 2780451
+    },
+    "estimatedCostCents": 1876,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "699945db-e629-4c3d-80e3-fe53123dbca2",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T18:27:04.314Z",
+    "endTime": "2026-02-14T18:27:04.314Z",
+    "durationMinutes": 0,
+    "messageCount": 1,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": null
+  },
+  {
+    "sessionId": "1c2bd41d-1d0c-4bff-a78a-d51cc838e7bf",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T18:27:04.313Z",
+    "endTime": "2026-02-14T19:16:24.022Z",
+    "durationMinutes": 49,
+    "messageCount": 51,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 110,
+      "output": 20230,
+      "cacheCreation": 333239,
+      "cacheRead": 5409188
+    },
+    "estimatedCostCents": 1791,
+    "firstPrompt": "what? go the previous session raw log file and find it"
+  },
+  {
+    "sessionId": "1e9b410c-e275-48f7-a219-1ba2719b92b3",
+    "projectId": "life-os",
+    "startTime": "2026-02-21T20:01:35.368Z",
+    "endTime": "2026-02-22T16:45:50.471Z",
+    "durationMinutes": 1244,
+    "messageCount": 20,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 44,
+      "output": 6844,
+      "cacheCreation": 489642,
+      "cacheRead": 1587135
+    },
+    "estimatedCostCents": 1267,
+    "firstPrompt": "what's next for this project?"
+  },
+  {
+    "sessionId": "2393b360-87af-493f-8d50-6f7d0c2baac6",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T05:40:32.031Z",
+    "endTime": "2026-02-14T06:03:21.835Z",
+    "durationMinutes": 23,
+    "messageCount": 15,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 37,
+      "output": 13073,
+      "cacheCreation": 172845,
+      "cacheRead": 1653071
+    },
+    "estimatedCostCents": 732,
+    "firstPrompt": "can we switch to update-in-place but also capture completion history? What I mean is that when to logic goes to update the dueDate, if the task hasn't been marked complete, the completion history should be captured as incomplete. That was we can go back and see which days/weeks/year (or whateve the recurrance cadence was) a task was/wasn't completed"
+  },
+  {
+    "sessionId": "2ceefbd6-b4aa-4ef2-b8b4-652c94fc9dc8",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T18:10:05.594Z",
+    "endTime": "2026-02-14T18:23:56.117Z",
+    "durationMinutes": 14,
+    "messageCount": 12,
+    "model": "<synthetic>",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 47,
+      "output": 6020,
+      "cacheCreation": 348944,
+      "cacheRead": 886637
+    },
+    "estimatedCostCents": 866,
+    "firstPrompt": "help me create detailed documentation for this app. It should clearly explain the application, the workflows, the logic behind the features, how the features align with the framework documents in '/Users/dnorthington/Library/Mobile Documents/com~apple~CloudDocs/Projects/All-Claude-Code-Projects/Coding-Projects/life-os/documentation'. "
+  },
+  {
+    "sessionId": "312e6791-9767-4f92-8617-370cb88bedf6",
+    "projectId": "life-os",
+    "startTime": "2026-03-05T00:37:27.413Z",
+    "endTime": "2026-03-11T20:58:05.006Z",
+    "durationMinutes": 9861,
+    "messageCount": 30,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 66,
+      "output": 20107,
+      "cacheCreation": 566679,
+      "cacheRead": 3101626
+    },
+    "estimatedCostCents": 1795,
+    "firstPrompt": "I need to think about increasing the security level of life OS as I want to start storing financial information (not account numbers). It will be more transactional, but could be tied to myself or a family member. What are my options for increasing security? What are prudent levels of action? ask me clarifying questions as needed."
+  },
+  {
+    "sessionId": "33a8a28f-8076-4aa7-bda7-71fbe1c19324",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T01:35:16.432Z",
+    "endTime": "2026-02-16T01:38:32.668Z",
+    "durationMinutes": 3,
+    "messageCount": 23,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 51,
+      "output": 1377,
+      "cacheCreation": 165905,
+      "cacheRead": 1374741
+    },
+    "estimatedCostCents": 579,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "35cab918-3108-4b0b-8d6b-f67ac5ff71ea",
+    "projectId": "life-os",
+    "startTime": "2026-02-15T22:39:05.872Z",
+    "endTime": "2026-02-16T00:50:33.536Z",
+    "durationMinutes": 131,
+    "messageCount": 38,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 116,
+      "output": 18035,
+      "cacheCreation": 383546,
+      "cacheRead": 4489214
+    },
+    "estimatedCostCents": 1696,
+    "firstPrompt": "hi"
+  },
+  {
+    "sessionId": "36e7d045-91e6-4a5c-94fb-f4bcb4bc202d",
+    "projectId": "life-os",
+    "startTime": "2026-02-22T17:20:48.768Z",
+    "endTime": "2026-02-22T17:42:26.624Z",
+    "durationMinutes": 22,
+    "messageCount": 24,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 11300,
+      "output": 3003,
+      "cacheCreation": 261083,
+      "cacheRead": 1674827
+    },
+    "estimatedCostCents": 843,
+    "firstPrompt": "push and save state"
+  },
+  {
+    "sessionId": "3824ece6-932f-49fe-a171-e59a4b22d84b",
+    "projectId": "life-os",
+    "startTime": "2026-02-22T18:50:58.661Z",
+    "endTime": "2026-02-24T02:26:41.414Z",
+    "durationMinutes": 1896,
+    "messageCount": 113,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 190,
+      "output": 31743,
+      "cacheCreation": 654864,
+      "cacheRead": 13952609
+    },
+    "estimatedCostCents": 4082,
+    "firstPrompt": "context is 40%"
+  },
+  {
+    "sessionId": "7a9438d1-a01b-484a-94c3-2d33ad05e71b",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T01:03:28.200Z",
+    "endTime": "2026-02-16T01:03:28.200Z",
+    "durationMinutes": 0,
+    "messageCount": 1,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": null
+  },
+  {
+    "sessionId": "397f2553-6aab-48b7-bb05-fa81aa8809e5",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T01:03:28.172Z",
+    "endTime": "2026-02-16T01:15:50.730Z",
+    "durationMinutes": 12,
+    "messageCount": 72,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 135,
+      "output": 31878,
+      "cacheCreation": 982151,
+      "cacheRead": 10067911
+    },
+    "estimatedCostCents": 3969,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "3a9b9477-de75-469e-9307-ba5ed376ec33",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T22:13:03.261Z",
+    "endTime": "2026-02-15T05:02:19.321Z",
+    "durationMinutes": 409,
+    "messageCount": 11,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 27,
+      "output": 1588,
+      "cacheCreation": 211620,
+      "cacheRead": 665547
+    },
+    "estimatedCostCents": 534,
+    "firstPrompt": "yes, proceed with verification"
+  },
+  {
+    "sessionId": "44c74e32-9d73-4675-b7a9-1123b7b39db0",
+    "projectId": "life-os",
+    "startTime": "2026-02-24T02:51:41.062Z",
+    "endTime": "2026-02-24T02:52:29.979Z",
+    "durationMinutes": 1,
+    "messageCount": 4,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 6,
+      "output": 20,
+      "cacheCreation": 30674,
+      "cacheRead": 28526
+    },
+    "estimatedCostCents": 63,
+    "firstPrompt": "/exit "
+  },
+  {
+    "sessionId": "4510b9e6-63dd-4c31-b97d-7ed04977ace1",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T19:32:59.359Z",
+    "endTime": "2026-02-14T21:07:26.234Z",
+    "durationMinutes": 94,
+    "messageCount": 44,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 96,
+      "output": 14285,
+      "cacheCreation": 454330,
+      "cacheRead": 4788857
+    },
+    "estimatedCostCents": 1857,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "47468405-6c39-4a63-b9a1-8a90ac4f2354",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T02:50:15.339Z",
+    "endTime": "2026-02-16T03:50:38.524Z",
+    "durationMinutes": 60,
+    "messageCount": 23,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 91,
+      "output": 11609,
+      "cacheCreation": 326425,
+      "cacheRead": 2949068
+    },
+    "estimatedCostCents": 1252,
+    "firstPrompt": "/clear"
+  },
+  {
+    "sessionId": "48b9ad6d-21bb-4e42-9e89-6e8e70896ab1",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T05:24:09.077Z",
+    "endTime": "2026-02-14T05:51:06.312Z",
+    "durationMinutes": 27,
+    "messageCount": 44,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 119,
+      "output": 10719,
+      "cacheCreation": 152083,
+      "cacheRead": 3722131
+    },
+    "estimatedCostCents": 1064,
+    "firstPrompt": "what's next to work on in this project?"
+  },
+  {
+    "sessionId": "72018c77-40fc-45ef-9121-79f8e3317612",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T06:58:35.215Z",
+    "endTime": "2026-02-14T06:58:35.215Z",
+    "durationMinutes": 0,
+    "messageCount": 1,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": null
+  },
+  {
+    "sessionId": "491c57f8-aab3-4f00-9b00-0b1d50ba76d1",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T06:58:35.205Z",
+    "endTime": "2026-02-14T07:13:44.147Z",
+    "durationMinutes": 15,
+    "messageCount": 93,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 166,
+      "output": 15978,
+      "cacheCreation": 338761,
+      "cacheRead": 10718857
+    },
+    "estimatedCostCents": 2765,
+    "firstPrompt": "/context "
+  },
+  {
+    "sessionId": "49ca7bc8-c287-44df-a52e-03dabffd485a",
+    "projectId": "life-os",
+    "startTime": "2026-02-26T02:14:03.885Z",
+    "endTime": "2026-03-11T17:18:18.727Z",
+    "durationMinutes": 19624,
+    "messageCount": 50,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 105,
+      "output": 14932,
+      "cacheCreation": 471903,
+      "cacheRead": 4030217
+    },
+    "estimatedCostCents": 1753,
+    "firstPrompt": "wait. is this project for my work or personal setup?"
+  },
+  {
+    "sessionId": "4b3e3ea5-fb01-4e2d-8bc9-cf9b68a0306b",
+    "projectId": "life-os",
+    "startTime": "2026-02-15T05:26:53.574Z",
+    "endTime": "2026-02-15T05:34:24.834Z",
+    "durationMinutes": 8,
+    "messageCount": 52,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 104,
+      "output": 10559,
+      "cacheCreation": 186447,
+      "cacheRead": 6013844
+    },
+    "estimatedCostCents": 1557,
+    "firstPrompt": "/exit "
+  },
+  {
+    "sessionId": "4bf40079-3ba0-4286-a240-2b7fdb5ab63d",
+    "projectId": "life-os",
+    "startTime": "2026-02-17T03:13:10.876Z",
+    "endTime": "2026-02-19T03:55:42.493Z",
+    "durationMinutes": 2923,
+    "messageCount": 18,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 7865,
+      "output": 9658,
+      "cacheCreation": 467151,
+      "cacheRead": 1493507
+    },
+    "estimatedCostCents": 1240,
+    "firstPrompt": "/save-state "
+  },
+  {
+    "sessionId": "4cdbbb14-8a43-4caa-8421-428cf6779a47",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T04:13:00.609Z",
+    "endTime": "2026-02-16T04:16:25.636Z",
+    "durationMinutes": 3,
+    "messageCount": 25,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 43,
+      "output": 4392,
+      "cacheCreation": 118010,
+      "cacheRead": 1955698
+    },
+    "estimatedCostCents": 621,
+    "firstPrompt": "see message I'm getting during the weekly review ritual"
+  },
+  {
+    "sessionId": "51d97490-47c3-4fb5-8d5f-73b55ea1298c",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T03:45:46.832Z",
+    "endTime": "2026-02-16T03:45:57.384Z",
+    "durationMinutes": 0,
+    "messageCount": 8,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "commit and push"
+  },
+  {
+    "sessionId": "52537307-0917-4a4e-9646-d40bff00f6a2",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T20:09:24.420Z",
+    "endTime": "2026-02-14T20:16:00.481Z",
+    "durationMinutes": 7,
+    "messageCount": 34,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 72,
+      "output": 5558,
+      "cacheCreation": 186190,
+      "cacheRead": 2928038
+    },
+    "estimatedCostCents": 940,
+    "firstPrompt": "commit this"
+  },
+  {
+    "sessionId": "4cdbbb14-8a43-4caa-8421-428cf6779a47",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T04:16:25.636Z",
+    "endTime": "2026-02-16T04:16:25.636Z",
+    "durationMinutes": 0,
+    "messageCount": 1,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": null
+  },
+  {
+    "sessionId": "52b8fb67-ba51-4ed8-8bfc-734ae1ef29ca",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T04:16:25.634Z",
+    "endTime": "2026-02-17T03:11:14.673Z",
+    "durationMinutes": 1375,
+    "messageCount": 19,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 41,
+      "output": 1709,
+      "cacheCreation": 171511,
+      "cacheRead": 1478019
+    },
+    "estimatedCostCents": 612,
+    "firstPrompt": "yes, commit and push"
+  },
+  {
+    "sessionId": "542ca891-341b-4ad9-8f35-6a904d91caff",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T02:45:13.143Z",
+    "endTime": "2026-02-16T02:45:13.634Z",
+    "durationMinutes": 0,
+    "messageCount": 3,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "/save-state "
+  },
+  {
+    "sessionId": "555439b5-ad2f-4630-a11b-b47bf577f12f",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T01:16:07.121Z",
+    "endTime": "2026-02-16T01:30:42.115Z",
+    "durationMinutes": 15,
+    "messageCount": 49,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 105,
+      "output": 33032,
+      "cacheCreation": 470523,
+      "cacheRead": 6343805
+    },
+    "estimatedCostCents": 2320,
+    "firstPrompt": "create a checkpoint prompt so I can clear"
+  },
+  {
+    "sessionId": "598b1ad0-9239-423e-aaed-39af96241780",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T18:02:47.770Z",
+    "endTime": "2026-02-14T18:02:52.766Z",
+    "durationMinutes": 0,
+    "messageCount": 6,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "60fc0a80-871e-46bf-b57a-5405007ebd20",
+    "projectId": "life-os",
+    "startTime": "2026-03-11T22:32:34.631Z",
+    "endTime": "2026-03-12T03:18:19.662Z",
+    "durationMinutes": 286,
+    "messageCount": 32,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 79,
+      "output": 13766,
+      "cacheCreation": 350364,
+      "cacheRead": 2924760
+    },
+    "estimatedCostCents": 1309,
+    "firstPrompt": "[Pasted text #1 +10 lines]"
+  },
+  {
+    "sessionId": "63e1fd5b-05ff-404c-b2cb-ca0084210c44",
+    "projectId": "life-os",
+    "startTime": "2026-03-12T02:25:07.669Z",
+    "endTime": "2026-03-12T03:18:31.827Z",
+    "durationMinutes": 53,
+    "messageCount": 39,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 82,
+      "output": 23149,
+      "cacheCreation": 329106,
+      "cacheRead": 4633692
+    },
+    "estimatedCostCents": 1660,
+    "firstPrompt": "[Pasted text #2 +33 lines]"
+  },
+  {
+    "sessionId": "661a53db-7ba9-4ebb-a732-348b756d5a51",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T21:30:49.109Z",
+    "endTime": "2026-02-14T22:01:29.463Z",
+    "durationMinutes": 31,
+    "messageCount": 6,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "should reference point to "
+  },
+  {
+    "sessionId": "2ceefbd6-b4aa-4ef2-b8b4-652c94fc9dc8",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T18:23:56.119Z",
+    "endTime": "2026-02-14T18:23:56.119Z",
+    "durationMinutes": 0,
+    "messageCount": 1,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": null
+  },
+  {
+    "sessionId": "699945db-e629-4c3d-80e3-fe53123dbca2",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T18:23:56.318Z",
+    "endTime": "2026-02-14T18:27:04.314Z",
+    "durationMinutes": 3,
+    "messageCount": 17,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 35,
+      "output": 5653,
+      "cacheCreation": 170869,
+      "cacheRead": 1344195
+    },
+    "estimatedCostCents": 615,
+    "firstPrompt": "commit and push this"
+  },
+  {
+    "sessionId": "a018a0a3-19d3-4b3d-8d0e-34890cab651f",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T03:15:06.812Z",
+    "endTime": "2026-02-16T03:15:06.812Z",
+    "durationMinutes": 0,
+    "messageCount": 1,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": null
+  },
+  {
+    "sessionId": "6b54b9a5-5893-451e-b6ce-2ddb18804fc7",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T03:15:06.761Z",
+    "endTime": "2026-02-16T03:26:15.308Z",
+    "durationMinutes": 11,
+    "messageCount": 83,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 148,
+      "output": 20234,
+      "cacheCreation": 647323,
+      "cacheRead": 12339739
+    },
+    "estimatedCostCents": 3679,
+    "firstPrompt": "continue to update"
+  },
+  {
+    "sessionId": "6c0dcc67-eb2e-41bc-92ac-cd6fcc6310fb",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T18:20:44.151Z",
+    "endTime": "2026-02-14T18:27:18.721Z",
+    "durationMinutes": 7,
+    "messageCount": 19,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 40,
+      "output": 2081,
+      "cacheCreation": 135059,
+      "cacheRead": 1193801
+    },
+    "estimatedCostCents": 493,
+    "firstPrompt": "implemement a no follow tag on the site so it's not indexed by google."
+  },
+  {
+    "sessionId": "6e47bb3f-90a5-46f2-a267-68c707358d34",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T02:49:04.102Z",
+    "endTime": "2026-02-16T02:49:06.967Z",
+    "durationMinutes": 0,
+    "messageCount": 6,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "I had issues with some filed being overwritten. I think we've backed out everything. Look at this plan and tell me if it aligns with the code base [Pasted text #3 +403 lines]"
+  },
+  {
+    "sessionId": "6e7a21c1-fbff-4e21-9bdf-7ee2b40d9a81",
+    "projectId": "life-os",
+    "startTime": "2026-02-25T06:58:36.161Z",
+    "endTime": "2026-02-25T06:58:36.173Z",
+    "durationMinutes": 0,
+    "messageCount": 3,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "/exit "
+  },
+  {
+    "sessionId": "704ef2ab-bfcc-4757-aa6d-6792092f19f4",
+    "projectId": "life-os",
+    "startTime": "2026-02-15T18:29:14.926Z",
+    "endTime": "2026-02-15T18:29:19.554Z",
+    "durationMinutes": 0,
+    "messageCount": 6,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "hi"
+  },
+  {
+    "sessionId": "71566592-7997-4731-90db-fe6adc838e29",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T00:33:05.436Z",
+    "endTime": "2026-02-16T00:45:20.366Z",
+    "durationMinutes": 12,
+    "messageCount": 15,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 41,
+      "output": 8426,
+      "cacheCreation": 346264,
+      "cacheRead": 1305053
+    },
+    "estimatedCostCents": 957,
+    "firstPrompt": "/rewind "
+  },
+  {
+    "sessionId": "71f20fff-02ea-4b78-a314-09b69f80b23f",
+    "projectId": "life-os",
+    "startTime": "2026-03-14T19:12:49.711Z",
+    "endTime": "2026-03-14T19:22:22.392Z",
+    "durationMinutes": 10,
+    "messageCount": 29,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 69,
+      "output": 17542,
+      "cacheCreation": 181554,
+      "cacheRead": 2900246
+    },
+    "estimatedCostCents": 1016,
+    "firstPrompt": "/exit"
+  },
+  {
+    "sessionId": "72018c77-40fc-45ef-9121-79f8e3317612",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T06:47:04.671Z",
+    "endTime": "2026-02-14T06:58:35.215Z",
+    "durationMinutes": 12,
+    "messageCount": 44,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 136,
+      "output": 6975,
+      "cacheCreation": 626234,
+      "cacheRead": 6091199
+    },
+    "estimatedCostCents": 2369,
+    "firstPrompt": "let's conduct a deep analysis of the UI. Make sure the components are all clean and the code is optimized. Also, think about the experience from the user's perspective. Is the layout optimal? Is everything cohesive? The buttons, links, fonts, styles, interaction patterns, etc. If you were a top-level UI designer at a highly-respected company when it comes to design, what feedback would you have to improve the design? "
+  },
+  {
+    "sessionId": "73d90d2d-2f95-4b9e-8c9c-a35b4bbffc50",
+    "projectId": "life-os",
+    "startTime": "2026-02-15T05:35:03.633Z",
+    "endTime": "2026-02-15T05:56:10.624Z",
+    "durationMinutes": 21,
+    "messageCount": 44,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 97,
+      "output": 11325,
+      "cacheCreation": 328138,
+      "cacheRead": 5472982
+    },
+    "estimatedCostCents": 1727,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "73e5fdd9-98b7-42a2-a26d-aef0929c368f",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T22:06:38.368Z",
+    "endTime": "2026-02-15T18:24:06.696Z",
+    "durationMinutes": 1217,
+    "messageCount": 26,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 81,
+      "output": 8763,
+      "cacheCreation": 378966,
+      "cacheRead": 2767945
+    },
+    "estimatedCostCents": 1295,
+    "firstPrompt": "[Pasted text #1 +142 lines]"
+  },
+  {
+    "sessionId": "7623d585-064f-4107-add5-1d97b9b62cc6",
+    "projectId": "life-os",
+    "startTime": "2026-02-22T16:45:50.452Z",
+    "endTime": "2026-02-24T02:31:55.468Z",
+    "durationMinutes": 2026,
+    "messageCount": 29,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 58,
+      "output": 4609,
+      "cacheCreation": 199319,
+      "cacheRead": 2778778
+    },
+    "estimatedCostCents": 929,
+    "firstPrompt": "context is 44%, keep going"
+  },
+  {
+    "sessionId": "7925e8ba-8113-4818-bbce-67f0d9a9d983",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T21:15:28.365Z",
+    "endTime": "2026-02-14T21:19:56.718Z",
+    "durationMinutes": 4,
+    "messageCount": 26,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 50,
+      "output": 3330,
+      "cacheCreation": 86459,
+      "cacheRead": 1914559
+    },
+    "estimatedCostCents": 546,
+    "firstPrompt": "fix the text for set and select so they're \"Set\" and \"Select\""
+  },
+  {
+    "sessionId": "7a4c3944-d4c8-48e5-aef1-1a4a392fa0ed",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T04:22:24.041Z",
+    "endTime": "2026-02-14T04:23:40.758Z",
+    "durationMinutes": 1,
+    "messageCount": 4,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 9,
+      "output": 413,
+      "cacheCreation": 107202,
+      "cacheRead": 31131
+    },
+    "estimatedCostCents": 210,
+    "firstPrompt": "Confirm both the project CLAUDE.md and global Active Projects\n  context load without errors"
+  },
+  {
+    "sessionId": "7a9438d1-a01b-484a-94c3-2d33ad05e71b",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T00:45:43.655Z",
+    "endTime": "2026-02-16T01:03:28.194Z",
+    "durationMinutes": 18,
+    "messageCount": 25,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 60,
+      "output": 16624,
+      "cacheCreation": 176980,
+      "cacheRead": 2854743
+    },
+    "estimatedCostCents": 992,
+    "firstPrompt": "/rewind "
+  },
+  {
+    "sessionId": "7b1bb270-3998-46c3-a811-b162d992d082",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T19:59:37.974Z",
+    "endTime": "2026-02-14T20:09:15.200Z",
+    "durationMinutes": 10,
+    "messageCount": 37,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 74,
+      "output": 6642,
+      "cacheCreation": 188362,
+      "cacheRead": 2893542
+    },
+    "estimatedCostCents": 946,
+    "firstPrompt": "yes, commit and push"
+  },
+  {
+    "sessionId": "7e388867-ea17-4c22-a001-4ce8e0f5d604",
+    "projectId": "life-os",
+    "startTime": "2026-02-19T03:58:07.156Z",
+    "endTime": "2026-02-19T03:58:10.990Z",
+    "durationMinutes": 0,
+    "messageCount": 6,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "7ead1e3d-31c5-477a-add8-c858f0455e5d",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T04:06:50.132Z",
+    "endTime": "2026-02-16T04:06:58.825Z",
+    "durationMinutes": 0,
+    "messageCount": 6,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "82701494-78db-4944-bd73-bdb22d531ec1",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T03:40:45.620Z",
+    "endTime": "2026-02-14T03:40:55.094Z",
+    "durationMinutes": 0,
+    "messageCount": 6,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "84cd655b-42dc-422d-9119-ed742d336175",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T02:19:17.447Z",
+    "endTime": "2026-02-16T02:24:58.387Z",
+    "durationMinutes": 6,
+    "messageCount": 30,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 54,
+      "output": 5295,
+      "cacheCreation": 115703,
+      "cacheRead": 2680736
+    },
+    "estimatedCostCents": 759,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "312e6791-9767-4f92-8617-370cb88bedf6",
+    "projectId": "life-os",
+    "startTime": "2026-03-11T20:58:05.021Z",
+    "endTime": "2026-03-11T20:58:05.021Z",
+    "durationMinutes": 0,
+    "messageCount": 1,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": null
+  },
+  {
+    "sessionId": "84fba2f3-a175-4112-a0bf-60e1908a510c",
+    "projectId": "life-os",
+    "startTime": "2026-03-11T20:58:04.783Z",
+    "endTime": "2026-03-11T21:33:10.475Z",
+    "durationMinutes": 35,
+    "messageCount": 71,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 130,
+      "output": 19528,
+      "cacheCreation": 338590,
+      "cacheRead": 6834171
+    },
+    "estimatedCostCents": 2063,
+    "firstPrompt": "I have a context meter visible (32%/192k tokens"
+  },
+  {
+    "sessionId": "881a8f85-eaeb-468a-8621-5af436482624",
+    "projectId": "life-os",
+    "startTime": "2026-02-15T18:25:11.266Z",
+    "endTime": "2026-02-15T18:25:19.805Z",
+    "durationMinutes": 0,
+    "messageCount": 1,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 3,
+      "output": 2,
+      "cacheCreation": 13114,
+      "cacheRead": 37113
+    },
+    "estimatedCostCents": 32,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "8ac1eafd-e1a2-4dea-aac3-95896d2f9199",
+    "projectId": "life-os",
+    "startTime": "2026-02-21T20:45:15.843Z",
+    "endTime": "2026-02-22T17:19:24.069Z",
+    "durationMinutes": 1234,
+    "messageCount": 89,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 163,
+      "output": 10613,
+      "cacheCreation": 610368,
+      "cacheRead": 10806792
+    },
+    "estimatedCostCents": 3251,
+    "firstPrompt": "context is 34%"
+  },
+  {
+    "sessionId": "8b05c3eb-afaa-46df-882c-906040c0cd08",
+    "projectId": "life-os",
+    "startTime": "2026-03-11T21:24:32.855Z",
+    "endTime": "2026-03-11T22:32:37.894Z",
+    "durationMinutes": 68,
+    "messageCount": 42,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 12806,
+      "output": 27090,
+      "cacheCreation": 239097,
+      "cacheRead": 4823954
+    },
+    "estimatedCostCents": 1575,
+    "firstPrompt": "/exit"
+  },
+  {
+    "sessionId": "e503ff6c-06df-4100-8879-353051d7bbae",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T20:53:42.551Z",
+    "endTime": "2026-02-14T20:53:42.551Z",
+    "durationMinutes": 0,
+    "messageCount": 1,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": null
+  },
+  {
+    "sessionId": "90a615b3-94c5-4402-bbeb-67427b73613c",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T20:53:42.540Z",
+    "endTime": "2026-02-14T21:15:22.955Z",
+    "durationMinutes": 22,
+    "messageCount": 60,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 146,
+      "output": 10695,
+      "cacheCreation": 163542,
+      "cacheRead": 6929092
+    },
+    "estimatedCostCents": 1686,
+    "firstPrompt": "push it and verify the deploy"
+  },
+  {
+    "sessionId": "919166d6-9f48-46c0-a229-cc40b9d2e595",
+    "projectId": "life-os",
+    "startTime": "2026-02-22T17:59:17.877Z",
+    "endTime": "2026-02-22T18:50:58.685Z",
+    "durationMinutes": 52,
+    "messageCount": 27,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 50,
+      "output": 12937,
+      "cacheCreation": 178508,
+      "cacheRead": 2737484
+    },
+    "estimatedCostCents": 945,
+    "firstPrompt": "/plugin "
+  },
+  {
+    "sessionId": "9741d590-7b68-4dc0-82ab-088e185a180d",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T01:39:00.919Z",
+    "endTime": "2026-02-16T02:19:10.953Z",
+    "durationMinutes": 40,
+    "messageCount": 40,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 860,
+      "output": 20098,
+      "cacheCreation": 242520,
+      "cacheRead": 5135473
+    },
+    "estimatedCostCents": 1570,
+    "firstPrompt": "which plan are you running?"
+  },
+  {
+    "sessionId": "9a1bf301-4ee0-462c-a166-580398ce5fc8",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T03:44:48.112Z",
+    "endTime": "2026-02-16T03:44:50.518Z",
+    "durationMinutes": 0,
+    "messageCount": 3,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "when i click \"Change\" on the today view when keystone habits are selected, the Done button in the editor shouldn't be so wide. Leave it centered and make it a reasonable witdth."
+  },
+  {
+    "sessionId": "9dcf762d-3d4c-4042-8eec-166f08967e63",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T02:25:13.520Z",
+    "endTime": "2026-02-16T02:42:39.604Z",
+    "durationMinutes": 17,
+    "messageCount": 105,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 170,
+      "output": 22480,
+      "cacheCreation": 294860,
+      "cacheRead": 14781126
+    },
+    "estimatedCostCents": 3493,
+    "firstPrompt": "/plan clear"
+  },
+  {
+    "sessionId": "2393b360-87af-493f-8d50-6f7d0c2baac6",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T06:03:21.835Z",
+    "endTime": "2026-02-14T06:03:21.835Z",
+    "durationMinutes": 0,
+    "messageCount": 1,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": null
+  },
+  {
+    "sessionId": "9def3638-b6fc-4926-b582-0dfa3e40414c",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T06:03:21.826Z",
+    "endTime": "2026-02-14T06:41:58.350Z",
+    "durationMinutes": 39,
+    "messageCount": 99,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 206,
+      "output": 20703,
+      "cacheCreation": 416688,
+      "cacheRead": 12145578
+    },
+    "estimatedCostCents": 3214,
+    "firstPrompt": "what is claude.ai vercel ?"
+  },
+  {
+    "sessionId": "9f0e4367-1888-4946-adf0-b763b44bf9a3",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T19:45:06.097Z",
+    "endTime": "2026-02-14T19:57:59.110Z",
+    "durationMinutes": 13,
+    "messageCount": 46,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 98,
+      "output": 7848,
+      "cacheCreation": 512379,
+      "cacheRead": 3880670
+    },
+    "estimatedCostCents": 1747,
+    "firstPrompt": "/save-state "
+  },
+  {
+    "sessionId": "a018a0a3-19d3-4b3d-8d0e-34890cab651f",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T02:43:39.488Z",
+    "endTime": "2026-02-16T03:15:06.802Z",
+    "durationMinutes": 31,
+    "messageCount": 19,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 36,
+      "output": 8912,
+      "cacheCreation": 127234,
+      "cacheRead": 1794628
+    },
+    "estimatedCostCents": 642,
+    "firstPrompt": "maybe the hook can ask me if I'm done and don't need a resume.md if I didn't complete a plan, but, say things were just pushed to git or another obvious milestone occurred?"
+  },
+  {
+    "sessionId": "a2bfcb39-8c75-4f8f-aa2d-b6996dbe1380",
+    "projectId": "life-os",
+    "startTime": "2026-02-15T05:23:13.276Z",
+    "endTime": "2026-02-15T05:23:16.242Z",
+    "durationMinutes": 0,
+    "messageCount": 6,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "aa8468ba-55fa-4b64-a1d2-99c2fb90bb8b",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T20:16:05.314Z",
+    "endTime": "2026-02-14T20:27:27.080Z",
+    "durationMinutes": 11,
+    "messageCount": 47,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 100,
+      "output": 12710,
+      "cacheCreation": 178005,
+      "cacheRead": 4999863
+    },
+    "estimatedCostCents": 1367,
+    "firstPrompt": "commit this"
+  },
+  {
+    "sessionId": "adde1bcb-ed15-4c67-9c45-36c1f2c14625",
+    "projectId": "life-os",
+    "startTime": "2026-02-15T05:56:48.104Z",
+    "endTime": "2026-02-15T05:59:45.361Z",
+    "durationMinutes": 3,
+    "messageCount": 18,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 39,
+      "output": 4095,
+      "cacheCreation": 420536,
+      "cacheRead": 1283194
+    },
+    "estimatedCostCents": 1060,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "f5404f4e-a922-4210-ae4f-069e79e941af",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T21:54:26.731Z",
+    "endTime": "2026-02-14T21:54:26.731Z",
+    "durationMinutes": 0,
+    "messageCount": 1,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": null
+  },
+  {
+    "sessionId": "b6fa2ff8-e7a9-48e3-b34e-cade0733fabf",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T21:54:26.728Z",
+    "endTime": "2026-02-14T22:00:32.714Z",
+    "durationMinutes": 6,
+    "messageCount": 42,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 82,
+      "output": 6218,
+      "cacheCreation": 162555,
+      "cacheRead": 3691583
+    },
+    "estimatedCostCents": 1044,
+    "firstPrompt": "commit this"
+  },
+  {
+    "sessionId": "b6fe916f-deca-4395-bac0-3355ba319fbe",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T01:02:57.452Z",
+    "endTime": "2026-02-16T01:27:38.309Z",
+    "durationMinutes": 25,
+    "messageCount": 171,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 298,
+      "output": 37465,
+      "cacheCreation": 536422,
+      "cacheRead": 26803841
+    },
+    "estimatedCostCents": 6313,
+    "firstPrompt": "comtext is 62. need you to provide a phase checkpoint so I can clear context "
+  },
+  {
+    "sessionId": "b7892a92-c38b-49be-9544-4f6d54db60a9",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T22:01:12.448Z",
+    "endTime": "2026-02-14T22:01:18.084Z",
+    "durationMinutes": 0,
+    "messageCount": 6,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "push it"
+  },
+  {
+    "sessionId": "b90dfdf8-3234-478a-bd22-e23d461288cf",
+    "projectId": "life-os",
+    "startTime": "2026-02-19T04:26:18.327Z",
+    "endTime": "2026-02-19T04:31:54.584Z",
+    "durationMinutes": 6,
+    "messageCount": 46,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 87,
+      "output": 8856,
+      "cacheCreation": 563275,
+      "cacheRead": 5274085
+    },
+    "estimatedCostCents": 2112,
+    "firstPrompt": "/save-state "
+  },
+  {
+    "sessionId": "ba149de4-9ad9-4afc-8d5b-bcd18c641554",
+    "projectId": "life-os",
+    "startTime": "2026-02-10T01:52:01.782Z",
+    "endTime": "2026-02-14T03:40:26.418Z",
+    "durationMinutes": 5868,
+    "messageCount": 100,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 280,
+      "output": 14022,
+      "cacheCreation": 455039,
+      "cacheRead": 8985841
+    },
+    "estimatedCostCents": 2644,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "35cab918-3108-4b0b-8d6b-f67ac5ff71ea",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T00:50:33.536Z",
+    "endTime": "2026-02-16T00:50:33.536Z",
+    "durationMinutes": 0,
+    "messageCount": 1,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": null
+  },
+  {
+    "sessionId": "bbb232d6-13e3-4438-aaa7-ce8d1349a6ee",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T00:50:33.528Z",
+    "endTime": "2026-02-16T01:02:03.573Z",
+    "durationMinutes": 12,
+    "messageCount": 69,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 128,
+      "output": 19496,
+      "cacheCreation": 448189,
+      "cacheRead": 10632767
+    },
+    "estimatedCostCents": 2980,
+    "firstPrompt": "# Revised Skip Feature Plan — Corrections & Updates\n\nApply these revisions to the current plan before coding.\n\n---\n\n## Critical Correction: Task Lifecycle\n\nThe plan incorrectly assumes weekend-scoped tasks. These are **daily keystone tasks** that expire at midnight and regenerate daily. Remove all weekend-close logic references. The skip record is scoped to a single day, not a weekend window. Update all date scoping (queries, actions, completions) to use the current day boundary (midnight-to-midnight), not weekend windows.\n\n---\n\n## Structural Change: Migrate to recurrenceCompletions\n\nDo NOT rename `weekendCompletions` or add an outcome column to it. Instead, migrate weekend/keystone task completions to use the existing `recurrenceCompletions` table, which already has the `outcome` column (`'completed' | 'skipped' | 'missed'`) and an index on `(taskId, scheduledDate)`.\n\nThis eliminates a duplicate completions table and gives the skip feature its data model for free.\n\n---\n\n## Phase 0: Migration (before any skip feature work)\n\n**Task 0a: Update completion logic to use recurrenceCompletions**\n\nUpdate all weekend task completion logic (`toggleWeekendTaskComplete` and any queries reading from `weekendCompletions`) to read/write from `recurrenceCompletions` instead. Field mapping:\n- `weekendOf` → `scheduledDate`\n- `completedAt` stays\n- Add `outcome: 'completed'` for existing complete path\n\n**Task 0b: Data migration**\n\nWrite a one-time migration that copies existing `weekendCompletions` rows into `recurrenceCompletions`:\n- `taskId` → `taskId`\n- `taskTitle` → `taskTitle`\n- `weekendOf` → `scheduledDate`\n- `completedAt` → `completedAt`\n- hardcode `outcome: 'completed'`\n\nThen drop the `weekendCompletions` table and remove it from `schema.ts`. Remove the `WeekendCompletion` type export. All completion tracking now uses `RecurrenceCompletion` / `NewRecurrenceCompletion` types.\n\n**Task 0c: Rename all weekend-specific functions to \"keystone\"**\n\n- `toggleWeekendTaskComplete` → `toggleKeystoneTaskComplete`\n- `getWeekendCompletions` → `getKeystoneCompletions`\n- `getWeekendSkippedTaskIds` → `getKeystoneSkippedTaskIds`\n- All component props, variables, and call sites updated accordingly\n\n**CHECKPOINT 0:** Commit migration, run `drizzle-kit push`, verify existing keystone task completion still works before building skip UI.\n\n---\n\n## Phase 1: Skip Server Logic (simplified — outcome column already exists)\n\n**Task 1: Add skipKeystoneTask server action**\n\nFile: `src/lib/actions/tasks.ts`\n\nNew `'use server'` action: `skipKeystoneTask(taskId: string, skip: boolean): Promise<ActionState>`\n\nWhen `skip = true`:\n1. Fetch the task\n2. If task was completed today (completedAt >= start of today), clear `completedAt` on the task\n3. Delete any existing `recurrence_completions` record for this `(taskId, today)`\n4. Insert new record with `outcome: 'skipped'`\n\nWhen `skip = false` (unskip):\n1. Delete the `recurrence_completions` record for this `(taskId, today)`\n\n**Task 2: Update toggleKeystoneTaskComplete with upsert logic**\n\nThe renamed complete action must handle completing an already-skipped task. Before inserting with `outcome: 'completed'`, delete any existing `recurrence_completions` record for this `(taskId, today)`. Then insert the new completed record. This handles the skip → complete flow cleanly.\n\n**Task 3: Add getKeystoneSkippedTaskIds query**\n\nFile: `src/lib/queries/tasks.ts`\n\nQuery `recurrence_completions` where `scheduledDate = today` AND `outcome = 'skipped'`. Return `string[]` of task IDs (not Set — serialization-safe for server→client boundary).\n\n**CHECKPOINT 1:** Commit server logic. Verify DB operations work.\n\n---\n\n## Phase 2: UI\n\n**Task 4: Wire skip data into Today page**\n\nFile: `src/app/today/page.tsx`\n\n- Import `getKeystoneSkippedTaskIds` from queries\n- Add to the `Promise.all`\n- Pass `keystoneSkippedIds` to `<TodayView>`\n\n**Task 5: Update TodayView for skip state**\n\nFile: `src/components/workflow/today-view.tsx`\n\n- Add `keystoneSkippedIds: string[]` to props\n- Convert to Set inside component: `const skippedSet = new Set(keystoneSkippedIds)`\n- **Progress counter:** Do NOT count skipped as resolved. Use format:\n  ```\n  \"2/4 (2 skipped)\"\n  ```\n  Where denominator = total tasks - skipped count, numerator = completed count, parenthetical only shown when skipped > 0\n- **Sort order** (three tiers):\n  1. **Incomplete** (top) — active, actionable\n  2. **Skipped** (middle) — acknowledged, still unskippable\n  3. **Completed** (bottom) — done, strikethrough\n- Pass `isSkippedThisDay={skippedSet.has(task.id)}` to child components\n\n**Task 6: Add Skip button to WeekendTaskItem (rename to KeystoneTaskItem)**\n\nFile: `src/components/workflow/weekend-task-item.tsx` → rename to `keystone-task-item.tsx`\n\n- Add imports: `SkipForward` from lucide-react, `skipKeystoneTask` from actions\n- Add `isSkippedThisDay: boolean` to props\n- **Skip button:** Visible only on incomplete, non-skipped tasks. Matches snooze style:\n  `Button variant=\"ghost\" size=\"sm\" className=\"h-8 gap-1 text-xs text-muted-foreground\"`\n  Label: \"Skip\". Icon: `SkipForward`.\n- **Tappable \"Skipped\" badge (unskip):** When task is skipped, show badge with:\n  - `text-xs text-yellow-600 dark:text-yellow-400`\n  - `cursor-pointer` with subtle hover treatment\n  - Tapping calls `skipKeystoneTask(task.id, false)` to unskip\n  - No separate \"Unskip\" button\n- **Skipped visual treatment:** Title gets `text-muted-foreground italic` (no strikethrough — strikethrough = completed)\n- **Completed tasks:** Neither skip button nor badge visible\n\n---\n\n## Summary of All Changes\n\n| Area | Original Plan | Revised |\n|------|--------------|---------|\n| Completions table | Add outcome to `weekendCompletions` | Migrate to existing `recurrenceCompletions` |\n| Naming | `weekend*` throughout | Rename to `keystone*` |\n| Lifecycle | Weekend-scoped (Sat–Mon) | Daily (midnight-to-midnight) |\n| Complete a skipped task | Not handled | Delete skip record, insert completed record |\n| Progress counter | Completed + skipped = \"resolved\" | `\"2/4 (2 skipped)\"` format |\n| Sort order | Resolved below incomplete | Incomplete → Skipped → Completed |\n| Unskip interaction | \"Unskip\" button | Tappable \"Skipped\" badge |\n| Weekend close | Flagged as concern | N/A — daily expiry, no conflict |\n\n---\n\n## Verification\n\n1. Push to main, wait for Vercel deploy\n2. Test: Existing keystone task completion still works after migration\n3. Test: Skip button visible on incomplete tasks, hidden on completed and skipped\n4. Test: Tapping Skip → title goes italic + tappable \"Skipped\" badge, task sorts to middle\n5. Test: Tapping \"Skipped\" badge → reverts to incomplete state, sorts back to top\n6. Test: Completing a skipped task (checkbox) → clears skip, shows strikethrough, sorts to bottom\n7. Test: Progress counter shows `\"2/4 (2 skipped)\"` format "
+  },
+  {
+    "sessionId": "c0ac39ed-fd21-4bec-b941-5069dc652cd3",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T01:58:30.275Z",
+    "endTime": "2026-02-16T02:41:21.199Z",
+    "durationMinutes": 43,
+    "messageCount": 15,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 40,
+      "output": 1479,
+      "cacheCreation": 47339,
+      "cacheRead": 1039503
+    },
+    "estimatedCostCents": 295,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "c2c8767e-bf7b-4db2-b981-12796205a573",
+    "projectId": "life-os",
+    "startTime": "2026-03-11T17:15:26.108Z",
+    "endTime": "2026-03-11T18:21:47.781Z",
+    "durationMinutes": 66,
+    "messageCount": 18,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 43,
+      "output": 7473,
+      "cacheCreation": 234623,
+      "cacheRead": 1003741
+    },
+    "estimatedCostCents": 684,
+    "firstPrompt": "[Pasted text #1 +10 lines]"
+  },
+  {
+    "sessionId": "c30122e7-83ae-424e-9fcb-2edc20ea4003",
+    "projectId": "life-os",
+    "startTime": "2026-02-15T18:26:47.144Z",
+    "endTime": "2026-02-15T18:27:26.492Z",
+    "durationMinutes": 1,
+    "messageCount": 4,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 3,
+      "output": 2,
+      "cacheCreation": 35665,
+      "cacheRead": 10377
+    },
+    "estimatedCostCents": 69,
+    "firstPrompt": "hi"
+  },
+  {
+    "sessionId": "c920b06f-688f-41a8-b4ad-0ac1c7015f8b",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T01:31:10.988Z",
+    "endTime": "2026-02-16T01:34:15.001Z",
+    "durationMinutes": 3,
+    "messageCount": 21,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 44,
+      "output": 4413,
+      "cacheCreation": 262182,
+      "cacheRead": 1941191
+    },
+    "estimatedCostCents": 889,
+    "firstPrompt": "you probably need to restart the plan and recheck the changes. I just realized that there was another plan running that could have overlapped some files. create a checkpoint prompt"
+  },
+  {
+    "sessionId": "cb6b892e-6ac6-493e-bdf6-44b361d7efd4",
+    "projectId": "life-os",
+    "startTime": "2026-02-22T17:58:23.044Z",
+    "endTime": "2026-02-22T17:58:28.536Z",
+    "durationMinutes": 0,
+    "messageCount": 6,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "/output-style "
+  },
+  {
+    "sessionId": "cbcd91f2-36a9-475b-be52-4eaf83dbdbe7",
+    "projectId": "life-os",
+    "startTime": "2026-03-14T19:23:10.917Z",
+    "endTime": "2026-03-14T19:23:16.221Z",
+    "durationMinutes": 0,
+    "messageCount": 5,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "context at 37%"
+  },
+  {
+    "sessionId": "cc339497-7c2d-4f8b-8b7e-0b54117d0a33",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T04:05:50.345Z",
+    "endTime": "2026-02-16T04:07:03.857Z",
+    "durationMinutes": 1,
+    "messageCount": 6,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "yes, push it"
+  },
+  {
+    "sessionId": "cc9425b1-8a88-4bb0-9677-67d90c6c1459",
+    "projectId": "life-os",
+    "startTime": "2026-02-15T18:20:53.460Z",
+    "endTime": "2026-02-15T18:30:01.361Z",
+    "durationMinutes": 9,
+    "messageCount": 6,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "/save-state "
+  },
+  {
+    "sessionId": "ceb6ec3a-2620-4956-ae05-cef73fab1832",
+    "projectId": "life-os",
+    "startTime": "2026-02-15T05:02:33.525Z",
+    "endTime": "2026-02-15T05:06:32.616Z",
+    "durationMinutes": 4,
+    "messageCount": 30,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 62,
+      "output": 10029,
+      "cacheCreation": 396660,
+      "cacheRead": 2693975
+    },
+    "estimatedCostCents": 1324,
+    "firstPrompt": "/save-state "
+  },
+  {
+    "sessionId": "ceded079-286b-456d-91c7-a5fbcb3ddaf3",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T02:19:13.745Z",
+    "endTime": "2026-02-16T02:19:14.295Z",
+    "durationMinutes": 0,
+    "messageCount": 3,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "d25c5602-b54b-451e-bd97-4e5cce0bd94e",
+    "projectId": "life-os",
+    "startTime": "2026-02-22T17:43:04.880Z",
+    "endTime": "2026-02-24T02:31:11.841Z",
+    "durationMinutes": 1968,
+    "messageCount": 12,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 7,
+      "output": 133,
+      "cacheCreation": 64785,
+      "cacheRead": 164376
+    },
+    "estimatedCostCents": 153,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "d5be903f-9f15-4b0e-81f7-73d7daf5041f",
+    "projectId": "life-os",
+    "startTime": "2026-02-24T02:31:16.461Z",
+    "endTime": "2026-02-26T02:14:04.023Z",
+    "durationMinutes": 2863,
+    "messageCount": 44,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 1097,
+      "output": 20354,
+      "cacheCreation": 687004,
+      "cacheRead": 4247741
+    },
+    "estimatedCostCents": 2239,
+    "firstPrompt": "/exit "
+  },
+  {
+    "sessionId": "d6e89ffa-8256-4bf2-a5a6-17dceff50e46",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T21:19:17.449Z",
+    "endTime": "2026-02-14T21:25:13.454Z",
+    "durationMinutes": 6,
+    "messageCount": 26,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 619,
+      "output": 4526,
+      "cacheCreation": 247774,
+      "cacheRead": 2250408
+    },
+    "estimatedCostCents": 921,
+    "firstPrompt": "did you push the unstaged changes in docs/HANDBOOK.md and                            \n  docs/claude-ai-project/life-os-context.md."
+  },
+  {
+    "sessionId": "d73fee9a-5c18-482f-873f-cb74bb49fd18",
+    "projectId": "life-os",
+    "startTime": "2026-03-14T19:06:36.370Z",
+    "endTime": "2026-03-14T19:09:02.674Z",
+    "durationMinutes": 2,
+    "messageCount": 5,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "/clear"
+  },
+  {
+    "sessionId": "d75f7244-fc54-4771-9399-732579c95455",
+    "projectId": "life-os",
+    "startTime": "2026-02-15T06:18:09.734Z",
+    "endTime": "2026-02-15T18:20:09.438Z",
+    "durationMinutes": 722,
+    "messageCount": 19,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 53,
+      "output": 2121,
+      "cacheCreation": 345480,
+      "cacheRead": 1399404
+    },
+    "estimatedCostCents": 926,
+    "firstPrompt": "/context "
+  },
+  {
+    "sessionId": "d8b497e6-8ea1-4819-898c-7e469dab4428",
+    "projectId": "life-os",
+    "startTime": "2026-02-15T05:56:19.811Z",
+    "endTime": "2026-02-15T05:56:29.357Z",
+    "durationMinutes": 0,
+    "messageCount": 6,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "commit this"
+  },
+  {
+    "sessionId": "dc1f88aa-fbcb-4167-b481-50380eb93f6b",
+    "projectId": "life-os",
+    "startTime": "2026-03-11T18:21:29.901Z",
+    "endTime": "2026-03-11T19:07:25.892Z",
+    "durationMinutes": 46,
+    "messageCount": 94,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 344,
+      "output": 23030,
+      "cacheCreation": 301694,
+      "cacheRead": 11191516
+    },
+    "estimatedCostCents": 2837,
+    "firstPrompt": "yes"
+  },
+  {
+    "sessionId": "47468405-6c39-4a63-b9a1-8a90ac4f2354",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T03:50:38.547Z",
+    "endTime": "2026-02-16T03:50:38.547Z",
+    "durationMinutes": 0,
+    "messageCount": 1,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": null
+  },
+  {
+    "sessionId": "dc788ecc-aab5-48cf-b031-1f2862a7749b",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T03:50:38.456Z",
+    "endTime": "2026-02-16T04:04:19.443Z",
+    "durationMinutes": 14,
+    "messageCount": 92,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 180,
+      "output": 20771,
+      "cacheCreation": 441528,
+      "cacheRead": 13118974
+    },
+    "estimatedCostCents": 3444,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "deeb7de7-5072-4708-a2da-681eef3881a8",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T03:46:14.804Z",
+    "endTime": "2026-02-16T03:50:30.577Z",
+    "durationMinutes": 4,
+    "messageCount": 19,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 47,
+      "output": 2623,
+      "cacheCreation": 235600,
+      "cacheRead": 1464504
+    },
+    "estimatedCostCents": 736,
+    "firstPrompt": "yes run /save-state"
+  },
+  {
+    "sessionId": "dfa028fe-db72-4652-8785-7815325f94fd",
+    "projectId": "life-os",
+    "startTime": "2026-02-15T06:04:13.145Z",
+    "endTime": "2026-02-15T06:18:03.267Z",
+    "durationMinutes": 14,
+    "messageCount": 73,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 142,
+      "output": 18985,
+      "cacheCreation": 270569,
+      "cacheRead": 9055754
+    },
+    "estimatedCostCents": 2348,
+    "firstPrompt": "/save-state "
+  },
+  {
+    "sessionId": "e503ff6c-06df-4100-8879-353051d7bbae",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T20:43:02.610Z",
+    "endTime": "2026-02-14T20:53:42.548Z",
+    "durationMinutes": 11,
+    "messageCount": 14,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 29,
+      "output": 5271,
+      "cacheCreation": 107598,
+      "cacheRead": 1046728
+    },
+    "estimatedCostCents": 438,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "e678bb10-05ce-496e-8e4d-7b6cdb94c259",
+    "projectId": "life-os",
+    "startTime": "2026-03-12T03:18:29.360Z",
+    "endTime": "2026-03-14T19:11:16.250Z",
+    "durationMinutes": 3833,
+    "messageCount": 73,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 209,
+      "output": 36794,
+      "cacheCreation": 702222,
+      "cacheRead": 7124019
+    },
+    "estimatedCostCents": 2929,
+    "firstPrompt": "yes. run /save-state"
+  },
+  {
+    "sessionId": "ea43d730-5566-4d1e-831f-7e0d658965e6",
+    "projectId": "life-os",
+    "startTime": "2026-02-16T03:26:29.234Z",
+    "endTime": "2026-02-16T03:44:22.842Z",
+    "durationMinutes": 18,
+    "messageCount": 93,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 12063,
+      "output": 22771,
+      "cacheCreation": 290435,
+      "cacheRead": 13352512
+    },
+    "estimatedCostCents": 3237,
+    "firstPrompt": "context is at 63%. need to clear"
+  },
+  {
+    "sessionId": "eaad533a-73c7-4c31-a8e9-5acf13c4179a",
+    "projectId": "life-os",
+    "startTime": "2026-03-12T04:00:38.781Z",
+    "endTime": "2026-03-14T19:12:53.433Z",
+    "durationMinutes": 3792,
+    "messageCount": 38,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 18357,
+      "output": 28596,
+      "cacheCreation": 672506,
+      "cacheRead": 5134620
+    },
+    "estimatedCostCents": 2466,
+    "firstPrompt": "/save-state"
+  },
+  {
+    "sessionId": "4bf40079-3ba0-4286-a240-2b7fdb5ab63d",
+    "projectId": "life-os",
+    "startTime": "2026-02-19T03:55:42.533Z",
+    "endTime": "2026-02-19T03:55:42.533Z",
+    "durationMinutes": 0,
+    "messageCount": 1,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": null
+  },
+  {
+    "sessionId": "f0bd4689-8cb6-4984-bd7f-4dde4d9278ea",
+    "projectId": "life-os",
+    "startTime": "2026-02-19T03:55:42.412Z",
+    "endTime": "2026-02-19T03:57:01.441Z",
+    "durationMinutes": 1,
+    "messageCount": 15,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 23,
+      "output": 2465,
+      "cacheCreation": 108856,
+      "cacheRead": 967051
+    },
+    "estimatedCostCents": 404,
+    "firstPrompt": "/save-state "
+  },
+  {
+    "sessionId": "f31d148b-8c8f-4154-a8b5-80ed6a48d299",
+    "projectId": "life-os",
+    "startTime": "2026-02-22T17:42:26.618Z",
+    "endTime": "2026-02-24T02:30:11.871Z",
+    "durationMinutes": 1968,
+    "messageCount": 23,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 47,
+      "output": 4077,
+      "cacheCreation": 152918,
+      "cacheRead": 1660472
+    },
+    "estimatedCostCents": 629,
+    "firstPrompt": "[Pasted text #1 +10 lines]"
+  },
+  {
+    "sessionId": "f487f822-2773-4510-9a66-dc4c59486d65",
+    "projectId": "life-os",
+    "startTime": "2026-03-11T21:07:14.618Z",
+    "endTime": "2026-03-14T19:07:28.578Z",
+    "durationMinutes": 4200,
+    "messageCount": 6,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "/clear "
+  },
+  {
+    "sessionId": "f5404f4e-a922-4210-ae4f-069e79e941af",
+    "projectId": "life-os",
+    "startTime": "2026-02-14T21:20:10.983Z",
+    "endTime": "2026-02-14T21:54:26.730Z",
+    "durationMinutes": 34,
+    "messageCount": 13,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 2817,
+      "output": 5996,
+      "cacheCreation": 135283,
+      "cacheRead": 1153327
+    },
+    "estimatedCostCents": 519,
+    "firstPrompt": "/save-state "
+  },
+  {
+    "sessionId": "f7203180-4cf3-48c5-94e4-9fab81d5caa1",
+    "projectId": "life-os",
+    "startTime": "2026-02-15T18:26:17.387Z",
+    "endTime": "2026-02-15T18:26:36.811Z",
+    "durationMinutes": 0,
+    "messageCount": 7,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 3,
+      "output": 2,
+      "cacheCreation": 12596,
+      "cacheRead": 37113
+    },
+    "estimatedCostCents": 31,
+    "firstPrompt": "/save-state "
+  },
+  {
+    "sessionId": "f85e0109-d7e2-4221-8c2f-f04f89ba8ab0",
+    "projectId": "life-os",
+    "startTime": "2026-02-15T05:34:35.637Z",
+    "endTime": "2026-02-15T05:34:39.044Z",
+    "durationMinutes": 0,
+    "messageCount": 6,
+    "model": "unknown",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "yes, run /save-state"
+  },
+  {
+    "sessionId": "fadb58e6-8bbe-406f-b1ec-d9ea9a9e7a40",
+    "projectId": "life-os",
+    "startTime": "2026-02-19T03:59:17.891Z",
+    "endTime": "2026-02-19T04:26:18.349Z",
+    "durationMinutes": 27,
+    "messageCount": 32,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 73,
+      "output": 32921,
+      "cacheCreation": 557022,
+      "cacheRead": 5179372
+    },
+    "estimatedCostCents": 2263,
+    "firstPrompt": "/exit "
+  },
+  {
+    "sessionId": "ff62e806-2181-47de-86ba-6985d8ee0c41",
+    "projectId": "life-os",
+    "startTime": "2026-02-19T04:41:03.125Z",
+    "endTime": "2026-02-22T17:57:51.027Z",
+    "durationMinutes": 5117,
+    "messageCount": 96,
+    "model": "claude-opus-4-6",
+    "gitBranch": "main",
+    "tokens": {
+      "input": 207,
+      "output": 22079,
+      "cacheCreation": 1086581,
+      "cacheRead": 13110651
+    },
+    "estimatedCostCents": 4661,
+    "firstPrompt": "/save-state "
+  },
+  {
+    "sessionId": "5634aaec-b108-472b-9ebc-d0c88e69216d",
+    "projectId": "carter-treatment",
+    "startTime": "2026-02-25T05:27:56.487Z",
+    "endTime": "2026-02-25T05:27:56.540Z",
+    "durationMinutes": 0,
+    "messageCount": 3,
+    "model": "unknown",
+    "gitBranch": "HEAD",
+    "tokens": {
+      "input": 0,
+      "output": 0,
+      "cacheCreation": 0,
+      "cacheRead": 0
+    },
+    "estimatedCostCents": 0,
+    "firstPrompt": "/exit "
+  }
+]

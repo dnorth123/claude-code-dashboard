@@ -1,0 +1,229 @@
+[
+  {
+    "projectId": "life-os",
+    "section": "UX Evaluation Recommendations (2026-02-14)",
+    "sectionStatus": "COMPLETE",
+    "items": [
+      {
+        "done": true,
+        "text": "Weekend section collapsed on Saturday — f385604"
+      },
+      {
+        "done": true,
+        "text": "Recurring section default-open — f385604"
+      },
+      {
+        "done": true,
+        "text": "\"Overdue\" label feels punitive — f385604"
+      },
+      {
+        "done": true,
+        "text": "Morning nudge persists all day — 897d239"
+      },
+      {
+        "done": true,
+        "text": "Capture → Backlog gap — 002a74e"
+      },
+      {
+        "done": true,
+        "text": "Static empty states — 897d239"
+      },
+      {
+        "done": true,
+        "text": "Weekend progress indicator — 3fe2c84"
+      },
+      {
+        "done": true,
+        "text": "Due Today below Flex-Blocks — f385604"
+      },
+      {
+        "done": true,
+        "text": "Recurring completion invisible — 3fe2c84"
+      },
+      {
+        "done": true,
+        "text": "Keystone set mid-ritual — d8e27af"
+      }
+    ]
+  },
+  {
+    "projectId": "life-os",
+    "section": "Ritual Enhancements (2026-02-18)",
+    "sectionStatus": "COMPLETE",
+    "items": [
+      {
+        "done": true,
+        "text": "Checkpoint A (Tasks 1-5): Values reflection steps — Today's Reflection in Shutdown, Values Check in Weekly Review, keystone context, HANDBOOK updates"
+      },
+      {
+        "done": true,
+        "text": "Checkpoint B (Tasks 6-11): Domain drift data — `getDomainActivitySummary()` query, wire into weekly review context, `DomainActivityBars` component, HANDBOOK updates"
+      },
+      {
+        "done": true,
+        "text": "Checkpoint C (Tasks 12-19): Annual review ritual — DB enum, types, definitions, buildSummary, cross-context (refactor `getContextForStep` to array), annual nudge (Dec/Jan), HANDBOOK updates"
+      }
+    ]
+  },
+  {
+    "projectId": "life-os",
+    "section": "CLAUDE.md Documentation Drift Fix (2026-02-22)",
+    "sectionStatus": "NOT STARTED",
+    "items": [
+      {
+        "done": false,
+        "text": "Add journal feature to CLAUDE.md (Architecture, DB Schema, Current State, Trigger Map)"
+      },
+      {
+        "done": false,
+        "text": "Update ritual type count from 4 to 5 in two locations"
+      },
+      {
+        "done": false,
+        "text": "Update DB Schema table count and list (9 → 14, add missing tables)"
+      },
+      {
+        "done": false,
+        "text": "Add missing directories to Architecture section (journal/, rituals/)"
+      },
+      {
+        "done": false,
+        "text": "Add ritual enhancements + annual review to Current State"
+      },
+      {
+        "done": false,
+        "text": "Add `/project-health-check` to monthly maintenance in `~/.claude/maintenance-checklist.md`"
+      }
+    ]
+  },
+  {
+    "projectId": "life-os",
+    "section": "Plugin Verification (2026-02-25)",
+    "sectionStatus": "DEFERRED TO NEXT SESSION",
+    "items": [
+      {
+        "done": false,
+        "text": "T12: Run hookify list, confirm 3 rules enabled with correct event/action/pattern"
+      },
+      {
+        "done": false,
+        "text": "T13: Verify security-guidance (edit file with `dangerouslySetInnerHTML`, expect warning)"
+      },
+      {
+        "done": false,
+        "text": "T13: Verify claude-md-management (`/revise-claude-md` proposes diffs)"
+      },
+      {
+        "done": false,
+        "text": "T13: Verify Neon MCP (\"list my Neon projects\" returns data)"
+      }
+    ]
+  },
+  {
+    "projectId": "life-os",
+    "section": "Auth Hardening Follow-up (2026-03-11)",
+    "sectionStatus": null,
+    "items": [
+      {
+        "done": false,
+        "text": "Run `node scripts/hash-password.mjs` to generate `AUTH_PASSWORD_HASH`"
+      },
+      {
+        "done": false,
+        "text": "Set `AUTH_PASSWORD_HASH` in `.env.local` and Vercel env vars"
+      },
+      {
+        "done": false,
+        "text": "Verify hash-based login works, then remove `AUTH_PASSWORD` from `.env.local` and Vercel"
+      },
+      {
+        "done": false,
+        "text": "Add defensive try/catch to `getDocumentHubData()` query (same pattern as journal queries in PR #17) — prevents crash if documents tables are missing"
+      }
+    ]
+  },
+  {
+    "projectId": "life-os",
+    "section": "Security Follow-up (2026-03-11)",
+    "sectionStatus": null,
+    "items": [
+      {
+        "done": false,
+        "text": "Push unsubscribe: add indexed `endpoint` column to `push_subscriptions` on next schema change (avoids select-all + JS filter)"
+      },
+      {
+        "done": false,
+        "text": "Pre-existing build failure: `@uiw/react-md-editor` missing — documents feature (PR #18) dependency not installed. Run `npm install @uiw/react-md-editor` or remove the documents components if the feature is unwanted."
+      }
+    ]
+  },
+  {
+    "projectId": "life-os",
+    "section": "Token Audit Follow-up (2026-03-11)",
+    "sectionStatus": null,
+    "items": [
+      {
+        "done": false,
+        "text": "Explore built-in insights system (`/insights`) — could replace manual learnings pipeline"
+      },
+      {
+        "done": false,
+        "text": "Compress \"Current State\" in project CLAUDE.md to capabilities summary (~850 tokens)"
+      },
+      {
+        "done": false,
+        "text": "Prune resolved Open Questions (#3, #8) (~100 tokens)"
+      },
+      {
+        "done": false,
+        "text": "Graduate memory context-management narrative to pointer (~300-500 tokens)"
+      },
+      {
+        "done": false,
+        "text": "Remove 2 redundant lines from Global CLAUDE.md (L8, L14) (~20 tokens)"
+      }
+    ]
+  },
+  {
+    "projectId": "life-os",
+    "section": "Proof Expansion Roadmap Review (2026-03-14)",
+    "sectionStatus": null,
+    "items": [
+      {
+        "done": false,
+        "text": "Review and refine the Proof expansion doc with updated priorities based on actual usage: https://www.proofeditor.ai/d/c1y9slwc?token=f91d28ec-8f18-462a-a03a-1b1f927fbe8e"
+      }
+    ]
+  },
+  {
+    "projectId": "life-os",
+    "section": "Reports & Analytics (2026-02-23)",
+    "sectionStatus": "PHASE 1 COMPLETE",
+    "items": [
+      {
+        "done": true,
+        "text": "Checkpoint A (Tasks 1-5): Query layer — types, date utilities, 8 aggregate queries, `getReportData()` aggregator"
+      },
+      {
+        "done": true,
+        "text": "Checkpoint B (Tasks 6-11): Reports page UI — stat cards, horizontal bars, progress rings, date picker, 8 report sections, Settings link, revalidation, deploy"
+      },
+      {
+        "done": false,
+        "text": "Phase 2: Ritual integration (Weekly/Quarterly Review data summaries)"
+      },
+      {
+        "done": false,
+        "text": "Phase 3: Contextual slices (mini stats on Today, Rituals, Read pages)"
+      },
+      {
+        "done": false,
+        "text": "Phase 4: Trends & streaks (period-over-period, streak tracking — needs proper TZ handling, see Open Question #11)"
+      },
+      {
+        "done": false,
+        "text": "Phase 5: AI insights (Haiku natural language observations)"
+      }
+    ]
+  }
+]

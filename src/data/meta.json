@@ -1,0 +1,13 @@
+{
+  "refreshedAt": "2026-03-14T20:09:51.580Z",
+  "dataSpanDays": 33,
+  "firstSessionDate": "2026-02-10",
+  "lastSessionDate": "2026-03-14",
+  "totalSessions": 159,
+  "totalProjects": 18,
+  "warnings": {
+    "skippedFiles": [],
+    "parseErrors": 0,
+    "historyMatchRate": "144/159"
+  }
+}
